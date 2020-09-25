@@ -5,7 +5,7 @@
 
 Published February, 2018
 
-[<img src="./feature_selection.png" width="248">](https://www.udemy.com/feature-selection-for-machine-learning) | [<img src="./trainindata.png" width="248">](https://www.trainindata.com)
+[<img src="./feature_selection.png" width="248">](https://www.udemy.com/feature-selection-for-machine-learning)  [<img src="./trainindata.png" width="248">](https://www.trainindata.com)
 
 ## Links
 
