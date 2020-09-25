@@ -1,0 +1,10 @@
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# datasets
+*.csv
+*.zip
+
+# folders
+_notebooks
+_old_datasets
