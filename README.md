@@ -5,11 +5,11 @@
 
 Published February, 2018
 
-[<img src="./feature_selection.png" width="248">](https://www.udemy.com/feature-selection-for-machine-learning)  [<img src="./trainindata.png" width="248">](https://www.trainindata.com)
+[<img src="./feature_selection.png" width="248">](https://www.udemy.com/course/feature-selection-for-machine-learning/?referralCode=186501DF5D93F48C4F71)  [<img src="./trainindata.png" width="248">](https://www.trainindata.com)
 
 ## Links
 
-- [Online Course](https://www.udemy.com/feature-selection-for-machine-learning)
+- [Online Course](https://www.udemy.com/course/feature-selection-for-machine-learning/?referralCode=186501DF5D93F48C4F71)
 
 
 ## Table of Contents
