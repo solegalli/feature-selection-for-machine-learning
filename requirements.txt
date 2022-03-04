@@ -2,7 +2,7 @@ autopep8==1.5.2
 ipykernel==5.2.1
 matplotlib==3.2.1
 mlxtend==0.17.2
-numpy==1.19.1
+numpy==1.21.0
 pandas==1.1.1
 scikit-learn==0.23.2
 scipy==1.4.1
