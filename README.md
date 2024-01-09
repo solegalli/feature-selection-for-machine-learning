@@ -4,15 +4,17 @@
 
 ## Feature Selection for Machine Learning - Code Repository
 
-Published February, 2018
+[<img src="./course-banner.png">](https://www.trainindata.com/p/feature-selection-for-machine-learning)
+
+**Launched**: February, 2018
 
 Actively maintained.
 
-[<img src="./feature_selection.png" width="248">](https://www.courses.trainindata.com/p/feature-selection-for-machine-learning)
+[<img src="./feature_selection.png" width="248">](https://www.trainindata.com/p/feature-selection-for-machine-learning)
 
 ## Links
 
-- [Online Course](https://www.courses.trainindata.com/p/feature-selection-for-machine-learning)
+- [Online Course](https://www.trainindata.com/p/feature-selection-for-machine-learning)
 
 
 ## Table of Contents
@@ -60,3 +62,8 @@ Actively maintained.
 	1. Feature Shuffling
 	2. Recursive Feature Elimination
 	3. Recursive Feature Addition
+
+
+## Links
+
+- [Online Course](https://www.trainindata.com/p/feature-selection-for-machine-learning)
