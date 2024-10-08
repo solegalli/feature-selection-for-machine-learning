@@ -36,34 +36,32 @@ Actively maintained.
 	3. Anova
 	4. Basic Selection Methods + Statistical Methods - Pipeline
 
-4. **Filter Methods: MRMR**
-	1.MRMR
-    
-5. **Filter Methods: Other Methods and Metrics**
+   
+4. **Filter Methods: Other Methods and Metrics**
 	1. Univariate roc-auc, mse, etc
 	2. Method used in a KDD competition - 2009
 
-6 **Wrapper Methods**
+5. **Wrapper Methods**
 	1. Step Forward Feature Selection
 	2. Step Backward Feature Selection
 	3. Exhaustive Feature Selection
 
-7. **Embedded Methods: Linear Model Coefficients**
+6. **Embedded Methods: Linear Model Coefficients**
 	1. Logistic Regression Coefficients
 	2. Linear Regression Coefficients
 	3. Effect of Regularization on Coefficients
 	4. Basic Selection Methods + Correlation + Embedded - Pipeline 
 
-8. **Embedded Methods: Lasso**
+7. **Embedded Methods: Lasso**
 	1. Lasso 
 	2. Basic Selection Methods + Correlation + Lasso - Pipeline 
 
-9. **Embedded Methods: Tree Importance**
+8. **Embedded Methods: Tree Importance**
 	1. Random Forest derived Feature Importance
 	2. Tree importance + Recursive Feature Elimination
 	3. Basic Selection Methods + Correlation + Tree importance - Pipeline
 
-10. **Hybrid Feature Selection Methods**
+9. **Hybrid Feature Selection Methods**
 	1. Feature Shuffling
 	2. Recursive Feature Elimination
 	3. Recursive Feature Addition
